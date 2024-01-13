@@ -4,9 +4,16 @@ Este proyecto implementa un bot de Telegram que utiliza la API de OpenAI para pr
 # Configuración
 Antes de utilizar el bot, asegúrate de configurar correctamente las siguientes variables en el archivo del código fuente:
 
-Bot Token de Telegram: Obtén el token de acceso de tu bot de Telegram y configúralo en la variable botToken.
+## Bot Token de Telegram: 
+Obtén el token de acceso de tu bot de Telegram y configúralo en la variable botToken:
 
-API Key de OpenAI: Regístrate en OpenAI y obtén tu clave API. Configura la clave en la variable openaiApiKey.
+Abre la aplicación de Telegram y busca el bot llamado "BotFather".
+Inicia una conversación con el BotFather y utiliza el comando /newbot para crear un nuevo bot.
+Sigue las instrucciones para proporcionar un nombre y un nombre de usuario para tu bot.
+Al finalizar, el BotFather te proporcionará un token de acceso. Guarda este token, ya que lo necesitarás en tu aplicación.
+
+## API Key de OpenAI: 
+Regístrate en OpenAI y obtén tu clave API. Configura la clave en la variable openaiApiKey.
 
 URL de la API de OpenAI: La URL de la API de OpenAI para chat ya está configurada como openaiApiUrl, pero asegúrate de que sea la versión y ruta correctas según la documentación de OpenAI.
 
