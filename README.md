@@ -22,6 +22,7 @@ Instala las dependencias:
 
     npm install
     npm install telegram-bot
+    npm node-telegram-bot-api
     
 Ejecuta el bot:
 
