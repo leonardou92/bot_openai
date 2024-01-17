@@ -21,8 +21,8 @@ URL de la API de OpenAI: La URL de la API de OpenAI para chat ya está configura
 Instala las dependencias:
 
     npm install
-    npm install telegram-bot
     npm node-telegram-bot-api
+    npm install axios
     
 Ejecuta el bot:
 
