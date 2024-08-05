@@ -26,7 +26,7 @@ Instala las dependencias:
     
 Ejecuta el bot:
 
-    node app.js
+    node index.js
     
 ¡Comienza a interactuar con el bot en Telegram y observa cómo proporciona respuestas utilizando OpenAI!
 
